@@ -9,3 +9,7 @@ else if(firstname =="omilude"){
 else if(firstname== "mercy"){
     document.getElementById("correct").innerHTML="you presented your middle name as first name"
 }
+else if(firstname=="mercyforreal"){
+    document.getElementById("more").innerHTML=" you submitted your nickname"
+}
+else
